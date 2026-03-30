@@ -37,7 +37,7 @@
 
 ## ✦ current focus
 
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="200" src="https://raw.githubusercontent.com/khushibagora12/khushibagora12/main/assets/focus.jpeg" />
 
 - 🧠 improving full-stack development  
 - ⚡ exploring machine learning  
@@ -50,7 +50,7 @@
 ## ✦ vibe
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khushibagora12/khushibagora12/main/assets/quote.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/khushibagora12/khushibagora12/main/assets/quote1.png" width="600"/>
 </p>
 
 <p align="center">
