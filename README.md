@@ -17,10 +17,6 @@
 - 🤖 I like working on ideas, turning them into real projects, and learning whatever it takes along the way. 
 - 🎨 also into painting — it keeps my creative side alive.
 
----
-
-
-💭 clean, matches your overall vibe
 
 ---
 
