@@ -11,11 +11,13 @@
 ---
 
 ## ✦ about me
-<img align="right" width="220" src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/dev-artist.png" />
+<img align="right" width="150" src="https://raw.githubusercontent.com/khushibagora12/khushibagora12/main/assets/dev-artist.png" />
+
 
 - 🎓 IT STUDENT @ IIPS, DAVV  
 - 🤖 I like working on ideas, turning them into real projects, and learning whatever it takes along the way. 
 - 🎨 also into painting — it keeps my creative side alive.
+
 
 
 ---
@@ -33,11 +35,13 @@
 ---
 
 ## ✦ current focus
-<img align="right" width="180" src="https://i.pinimg.com/564x/6f/8b/5a/6f8b5a6b7c6c0f5a6e5b4c9e3d1c2a1f.jpg" />
+<img align="right" width="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 
 - 🧠 improving full-stack development 
 - ⚡ exploring machine learning
 - 🌱 consistency > perfection  
+
 
 ---
 
