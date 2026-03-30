@@ -11,18 +11,19 @@
 ---
 
 ## ✦ about me
+
 <img align="right" width="150" src="https://raw.githubusercontent.com/khushibagora12/khushibagora12/main/assets/dev-artist.png" />
 
-
 - 🎓 IT STUDENT @ IIPS, DAVV  
-- 🤖 I like working on ideas, turning them into real projects, and learning whatever it takes along the way. 
-- 🎨 also into painting — it keeps my creative side alive.
+- 🤖 I like working on ideas, turning them into real projects, and learning whatever it takes along the way.  
+- 🎨 also into painting — it keeps my creative side alive.  
 
-
+<br clear="right"/>
 
 ---
 
-### ✦ tech stack
+## ✦ tech stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,express,react,nextjs,mongodb,git" />
 </p>
@@ -35,21 +36,26 @@
 ---
 
 ## ✦ current focus
-<img align="right" width="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🧠 improving full-stack development 
-- ⚡ exploring machine learning
+- 🧠 improving full-stack development  
+- ⚡ exploring machine learning  
 - 🌱 consistency > perfection  
 
+<br clear="right"/>
 
 ---
 
 ## ✦ vibe
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/quote.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/khushibagora12/khushibagora12/main/assets/quote.png" width="600"/>
 </p>
-> code. create. express.
+
+<p align="center">
+  <i>code. create. express.</i>
+</p>
 
 ---
 
